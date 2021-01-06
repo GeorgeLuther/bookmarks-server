@@ -13,3 +13,4 @@
 {"message":"Bookmark with id 43a22a75-7639-48a2-b76f-0e23bc3a9acf not found","level":"error"}
 {"message":"Bookmark with id 1e428d9d-7e2d-488f-9b56-82d6c658355d created","level":"info"}
 {"message":"Bookmark with id 1e428d9d-7e2d-488f-9b56-82d6c658355d deleted.","level":"info"}
+{"message":"Title is required","level":"error"}
